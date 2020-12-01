@@ -20,6 +20,7 @@ public class Program {
 		System.out.printf("Circuference: %.2f%n", c );
 		System.out.printf("Volume: %.2f%n", v );
 		System.out.printf("Valor de PI: %.2f%n", Calculator.PI);
+		System.out.println("Treinamento");
 
 		
 			
